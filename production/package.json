@@ -1,0 +1,31 @@
+{
+  "name": "fast-regex",
+  "version": "1.1.1",
+  "description": "Premade regex templates",
+  "main": "fastRegex.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Axorax/fast-regex.js.git"
+  },
+  "exports": {
+    "import": "./fastRegex.js",
+    "require": "./fastRegex.cjs"
+  },
+  "keywords": [
+    "regex",
+    "fast-regex",
+    "premade-regex",
+    "easy-regex",
+    "regular-expressions",
+    "regular-expression"
+  ],
+  "author": "Axorax",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Axorax/fast-regex.js/issues"
+  },
+  "homepage": "https://github.com/Axorax/fast-regex.js#readme"
+}
